@@ -1,0 +1,14 @@
+table{
+    background-color: azure;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border: 1px;
+    justify-content: center;
+    text-align: center;
+}
+th, td{
+    border-bottom: 1px solid black;
+}
